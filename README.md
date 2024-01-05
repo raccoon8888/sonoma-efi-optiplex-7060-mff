@@ -1,0 +1,1 @@
+# sonoma-efi-optiplex-7060-mff
